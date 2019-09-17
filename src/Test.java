@@ -7,8 +7,6 @@ public class Test {
         System.out.println("12345");
 
         System.out.println("cat");
-
-        System.out.println("dog");
     }
 
 }
