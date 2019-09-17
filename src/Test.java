@@ -5,11 +5,10 @@
 public class Test {
 
     public static void main(String[] args) {
+        System.out.print("123456");
 
-        System.out.println("123456");
+        System.out.print("cat");
 
-        System.out.println("cat");
-
-        System.out.println("dog");
+        System.out.print("dog");
     }
 }
